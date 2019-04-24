@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYTimesArticle</string>
+    <string name="title">NY Times Most Popular</string>
+    <string name="loading_articles">Loading Articles</string>
+    <string name="article_list">Article list</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_account">My Account</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+</resources>
