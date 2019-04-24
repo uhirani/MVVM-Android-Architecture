@@ -12,16 +12,17 @@ All data binds using databinding. Added drawer layout and actionbar menu to perf
 # Screenshots
     Screenshots path:  app root-directory/screenshot
 
-#Getting Started
+# Getting Started
 1. This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
 2. Take clone of android app from Github from given link:
-   #####
-3. Setup android project and SYNC gradle file
+    https://github.com/uhirani/MVVM-Android-Architecture.git
 
-4. Run Android Project. Run > Run 'App'
+3. Setup android project and SYNC gradle file.
 
-#Run local unit tests
+4. Run Android Project. Run > Run 'App'.
+
+# Run local unit tests
 To run your local unit tests, follow these steps:
 
 1. Be sure your project is synchronized with Gradle by clicking Sync Project  in the toolbar.
@@ -36,8 +37,8 @@ builds a test app, and executes it locally using the default test runner class. 
 # Code coverage
 Android Studio has a built-in feature that allows you to run tests with code coverage.
 
-Navigate to the src/test/java folder and right click. Then select Run 'Test' with Coverage.4
+Navigate to the src/test/java folder and right click. Then select Run 'Test' with Coverage.
 
-The result will give you a window that displays test coverage by package, class, method, and lines. code coverage report screenshot put in folder at app root-directory/screenshot.
+The result will give you a window that displays test coverage by package, class, method, and lines. To view code coverage report, screenshot put in folder at app root-directory/screenshot.
 
 
